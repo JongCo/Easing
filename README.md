@@ -1,5 +1,5 @@
 # JongCo Easing
-&ensp;Jongco가 만든 Easing 툴입니다. 아래 내용은 해당 기능을 어떻게 활용하는지에 대해 안내합니다.
+&ensp;Jongco가 만든 Easing 툴입니다. 해당 소스코드는 UnityEngine 네임스페이스를 참조합니다. 그러므로 Unity상의 스크립트로 사용하기를 추천합니다. 아래 내용은 해당 기능을 어떻게 활용하는지에 대해 안내합니다.
 
 ## Single Axis Bezier 란?
 &ensp;하나의 축으로만 구현한 베지어 곡선입니다. 
