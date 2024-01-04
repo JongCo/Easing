@@ -90,9 +90,9 @@ new Easing.EasingOption(p1, p2, p3, p4, exp, mul);
 
 Constructor Parameters
  - `float p1` : 베지어 함수를 정의할 첫번째 점
- - `float p2` : 베지어 함수를 정의할 첫번째 점
- - `float p3` : 베지어 함수를 정의할 첫번째 점
- - `float p4` : 베지어 함수를 정의할 첫번째 점
+ - `float p2` : 베지어 함수를 정의할 두번째 점
+ - `float p3` : 베지어 함수를 정의할 세번째 점
+ - `float p4` : 베지어 함수를 정의할 네번째 점
  - `float exp` : 베지어 함수의 지수 값
  - `float mul` : 베지어 함수의 배수 값
 
