@@ -1,0 +1,10 @@
+{
+  "name": "io.github.jongco.easing",
+  "version": "1.0.1",
+  "displayName": "JongCo Easing",
+  "description": "Single Axis Bezier Easing Functions for Unity",
+  "unity": "2021.3",
+  "author": {
+    "name": "JongCo"
+  }
+}
