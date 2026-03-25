@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Easing{
+namespace JongCo.Easing{
     public class SingleAxisBezier {
 
         public static float LinearBezier(float p1, float p2, float t) {

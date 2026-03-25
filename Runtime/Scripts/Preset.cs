@@ -1,6 +1,6 @@
 
 
-namespace Easing{
+namespace JongCo.Easing{
     public class Preset
     {
         public static readonly EasingOption SlowInSlowOut = new(0f, 0.71f, 1f, 1f, 2.6f);

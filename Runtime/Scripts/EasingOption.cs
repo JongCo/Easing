@@ -1,4 +1,4 @@
-namespace Easing {
+namespace JongCo.Easing {
     public struct EasingOption
     {
         public float p1;
